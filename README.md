@@ -61,6 +61,7 @@ void loop() {
 ## OUTPUT:
 ## LED OFF:
 <img width="1010" height="708" alt="Screenshot 2025-09-17 080735" src="https://github.com/user-attachments/assets/9cb2ff88-81bd-4b0c-a943-1e76de5f1a42" />
+
 ## LED ON:
 <img width="1004" height="705" alt="Screenshot 2025-09-17 081753" src="https://github.com/user-attachments/assets/aa5f9638-a5a7-42ad-9676-ffd9477ee718" />
 
